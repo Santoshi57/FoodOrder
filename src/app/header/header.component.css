@@ -1,3 +1,7 @@
+
+
+
+
 header{
     background-color: white;
     padding: 0;
@@ -19,4 +23,13 @@ a:hover{
 a.logo{
     font-family: bold;
     padding: 1em;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+}
+
+nav ul li a{
+    padding: 4em;
+    display: inline-block;
 }
